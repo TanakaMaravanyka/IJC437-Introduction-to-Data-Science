@@ -1,0 +1,617 @@
+Sector,Ticket type,Year,Fare_Index
+All operators,Advance,2004,100
+All operators,Advance,2005,104.525167108711
+All operators,Advance,2006,110.797213051153
+All operators,Advance,2007,122.390359283699
+All operators,Advance,2008,131.543121381659
+All operators,Advance,2009,142.09132298461
+All operators,Advance,2010,140.295826492821
+All operators,Advance,2011,146.845940831267
+All operators,Advance,2012,155.0035695685
+All operators,Advance,2013,161.89168307628
+All operators,Advance,2014,165.27942256516
+All operators,Advance,2015,170.175213837382
+All operators,Advance,2016,170.042832003763
+All operators,Advance,2017,166.158465151192
+All operators,Advance,2018,167.99998346147
+All operators,Advance,2019,172.586963938279
+All operators,Advance,2020,174.637306599965
+All operators,Advance,2021,167.534424682241
+All operators,Advance,2022,182.322964793898
+All operators,Advance,2023,193.23953892901645
+All operators,Advance,2024,200.53301041351284
+All operators,Advance,2025,212.02017788299887
+All operators,All tickets,2004,100
+All operators,All tickets,2005,104.700796520003
+All operators,All tickets,2006,110.817268435062
+All operators,All tickets,2007,116.956285934045
+All operators,All tickets,2008,124.129478275555
+All operators,All tickets,2009,133.514811952655
+All operators,All tickets,2010,134.438753619482
+All operators,All tickets,2011,142.523324889816
+All operators,All tickets,2012,151.254550374743
+All operators,All tickets,2013,157.734649712654
+All operators,All tickets,2014,161.894542565674
+All operators,All tickets,2015,165.416812891302
+All operators,All tickets,2016,166.573674731967
+All operators,All tickets,2017,168.563470608269
+All operators,All tickets,2018,173.493607868287
+All operators,All tickets,2019,178.360307976333
+All operators,All tickets,2020,182.626529064249
+All operators,All tickets,2021,184.804430968773
+All operators,All tickets,2022,193.749636185824
+All operators,All tickets,2023,204.84662701198522
+All operators,All tickets,2024,215.01552758889284
+All operators,All tickets,2025,225.94307281593805
+All operators,Anytime,2004,100
+All operators,Anytime,2005,104.624202481617
+All operators,Anytime,2006,112.469798716716
+All operators,Anytime,2007,119.615150756984
+All operators,Anytime,2008,127.835629488604
+All operators,Anytime,2009,138.854413858358
+All operators,Anytime,2010,140.877497056596
+All operators,Anytime,2011,149.081909107403
+All operators,Anytime,2012,158.588926305337
+All operators,Anytime,2013,165.199668337517
+All operators,Anytime,2014,169.506796940301
+All operators,Anytime,2015,172.431314727127
+All operators,Anytime,2016,173.954106847989
+All operators,Anytime,2017,177.576118021581
+All operators,Anytime,2018,183.034773446529
+All operators,Anytime,2019,188.176430399767
+All operators,Anytime,2020,193.194167497521
+All operators,Anytime,2021,198.04158063725
+All operators,Anytime,2022,205.296986651413
+All operators,Anytime,2023,216.43762782307184
+All operators,Anytime,2024,227.4998165923638
+All operators,Anytime,2025,237.94590498035734
+All operators,Off Peak,2004,100
+All operators,Off Peak,2005,104.844928017761
+All operators,Off Peak,2006,110.591957995849
+All operators,Off Peak,2007,115.502068085441
+All operators,Off Peak,2008,121.563234732853
+All operators,Off Peak,2009,130.195046002399
+All operators,Off Peak,2010,131.716704028977
+All operators,Off Peak,2011,139.908888127373
+All operators,Off Peak,2012,148.70067760576
+All operators,Off Peak,2013,155.122472357425
+All operators,Off Peak,2014,159.091491304235
+All operators,Off Peak,2015,162.181702688552
+All operators,Off Peak,2016,163.981465217807
+All operators,Off Peak,2017,167.181752304639
+All operators,Off Peak,2018,173.286981138923
+All operators,Off Peak,2019,178.208985919048
+All operators,Off Peak,2020,182.830628992525
+All operators,Off Peak,2021,184.683236180336
+All operators,Off Peak,2022,191.619503280745
+All operators,Off Peak,2023,202.65715030284017
+All operators,Off Peak,2024,213.5877002447214
+All operators,Off Peak,2025,224.36816481982143
+All operators,Other,2004,100
+All operators,Other,2005,104.024855918459
+All operators,Other,2006,112.02506302257
+All operators,Other,2007,121.778906726785
+All operators,Other,2008,134.362085209579
+All operators,Other,2009,146.670887345853
+All operators,Other,2010,148.225907538706
+All operators,Other,2011,160.522406565474
+All operators,Other,2012,170.950687733972
+All operators,Other,2013,176.377835085505
+All operators,Other,2014,179.099979313966
+All operators,Other,2015,181.319983988473
+All operators,Other,2016,183.60784603922
+All operators,Other,2017,184.402174429222
+All operators,Other,2018,190.849445085201
+All operators,Other,2019,194.285453923389
+All operators,Other,2020,199.20702363966
+All operators,Other,2021,202.52693313303
+All operators,Other,2022,NA
+All operators,Other,2023,NA
+All operators,Other,2024,NA
+All operators,Other,2025,NA
+All operators,Season,2004,100
+All operators,Season,2005,104.635618374694
+All operators,Season,2006,108.897501747432
+All operators,Season,2007,114.197328989744
+All operators,Season,2008,120.702810129916
+All operators,Season,2009,128.181761028178
+All operators,Season,2010,128.139417174527
+All operators,Season,2011,137.111125691342
+All operators,Season,2012,145.317042624789
+All operators,Season,2013,151.468915289435
+All operators,Season,2014,156.130364980394
+All operators,Season,2015,160.225095624812
+All operators,Season,2016,161.10922627154
+All operators,Season,2017,163.587213091997
+All operators,Season,2018,168.686431359064
+All operators,Season,2019,173.398229701944
+All operators,Season,2020,178.116757141671
+All operators,Season,2021,182.403097905305
+All operators,Season,2022,188.842552238836
+All operators,Season,2023,199.44226891034344
+All operators,Season,2024,209.37441749364208
+All operators,Season,2025,218.36821769935668
+All operators,Super Off Peak,2004,100
+All operators,Super Off Peak,2005,104.761904263999
+All operators,Super Off Peak,2006,108.677226034835
+All operators,Super Off Peak,2007,113.517735014072
+All operators,Super Off Peak,2008,122.648219461604
+All operators,Super Off Peak,2009,132.813535995304
+All operators,Super Off Peak,2010,133.854544665523
+All operators,Super Off Peak,2011,140.046205719573
+All operators,Super Off Peak,2012,148.424351403919
+All operators,Super Off Peak,2013,155.276131516285
+All operators,Super Off Peak,2014,159.796079384298
+All operators,Super Off Peak,2015,162.352846380341
+All operators,Super Off Peak,2016,163.54248945949
+All operators,Super Off Peak,2017,166.662544378014
+All operators,Super Off Peak,2018,172.710102862688
+All operators,Super Off Peak,2019,177.833689611756
+All operators,Super Off Peak,2020,182.767569463343
+All operators,Super Off Peak,2021,186.712889575176
+All operators,Super Off Peak,2022,193.519935327662
+All operators,Super Off Peak,2023,204.994279279645
+All operators,Super Off Peak,2024,216.48548775225035
+All operators,Super Off Peak,2025,229.1783088408346
+London and South East,Advance,2004,100
+London and South East,Advance,2005,104.805528105863
+London and South East,Advance,2006,113.673718766893
+London and South East,Advance,2007,128.020154266536
+London and South East,Advance,2008,135.456898962816
+London and South East,Advance,2009,106.482146996439
+London and South East,Advance,2010,107.914904576021
+London and South East,Advance,2011,116.027777603581
+London and South East,Advance,2012,119.556442066419
+London and South East,Advance,2013,129.159094258146
+London and South East,Advance,2014,130.296585899484
+London and South East,Advance,2015,134.415455099105
+London and South East,Advance,2016,137.703624924841
+London and South East,Advance,2017,137.177733927846
+London and South East,Advance,2018,144.159844759533
+London and South East,Advance,2019,144.471410706946
+London and South East,Advance,2020,144.828420491162
+London and South East,Advance,2021,133.853099283875
+London and South East,Advance,2022,148.410588460535
+London and South East,Advance,2023,161.54481154597707
+London and South East,Advance,2024,165.8885080547665
+London and South East,Advance,2025,181.91900190167337
+London and South East,All tickets,2004,100
+London and South East,All tickets,2005,104.809789336962
+London and South East,All tickets,2006,109.617259686888
+London and South East,All tickets,2007,115.059629155144
+London and South East,All tickets,2008,121.807511919616
+London and South East,All tickets,2009,130.053598806932
+London and South East,All tickets,2010,130.620244782978
+London and South East,All tickets,2011,139.318594216912
+London and South East,All tickets,2012,147.807754759845
+London and South East,All tickets,2013,154.354933561972
+London and South East,All tickets,2014,158.664626713676
+London and South East,All tickets,2015,162.352041501407
+London and South East,All tickets,2016,163.504166375484
+London and South East,All tickets,2017,165.941458044138
+London and South East,All tickets,2018,171.243622059727
+London and South East,All tickets,2019,175.750290048922
+London and South East,All tickets,2020,180.417160712044
+London and South East,All tickets,2021,184.437557660817
+London and South East,All tickets,2022,191.962936086444
+London and South East,All tickets,2023,203.49900498499971
+London and South East,All tickets,2024,213.63977941587422
+London and South East,All tickets,2025,224.73138229464305
+London and South East,Anytime,2004,100
+London and South East,Anytime,2005,104.18278065681601
+London and South East,Anytime,2006,109.774510856174
+London and South East,Anytime,2007,115.362411463807
+London and South East,Anytime,2008,121.931348498709
+London and South East,Anytime,2009,131.238993000438
+London and South East,Anytime,2010,131.69523477967
+London and South East,Anytime,2011,139.760819597962
+London and South East,Anytime,2012,148.753359516296
+London and South East,Anytime,2013,155.603262195932
+London and South East,Anytime,2014,159.606815717568
+London and South East,Anytime,2015,162.700938285632
+London and South East,Anytime,2016,163.900221359932
+London and South East,Anytime,2017,166.119920971982
+London and South East,Anytime,2018,171.054973255355
+London and South East,Anytime,2019,175.484276089885
+London and South East,Anytime,2020,180.138808157413
+London and South East,Anytime,2021,184.661443402286
+London and South East,Anytime,2022,191.680915283747
+London and South East,Anytime,2023,202.88201137292668
+London and South East,Anytime,2024,212.82924788082147
+London and South East,Anytime,2025,222.8636388753603
+London and South East,Off Peak,2004,100
+London and South East,Off Peak,2005,105.734655668979
+London and South East,Off Peak,2006,110.827086243191
+London and South East,Off Peak,2007,116.745679021636
+London and South East,Off Peak,2008,124.049083155997
+London and South East,Off Peak,2009,133.104463698417
+London and South East,Off Peak,2010,134.841194102583
+London and South East,Off Peak,2011,143.48478423613
+London and South East,Off Peak,2012,152.30801856647
+London and South East,Off Peak,2013,158.918128761229
+London and South East,Off Peak,2014,163.171020251445
+London and South East,Off Peak,2015,166.976086241199
+London and South East,Off Peak,2016,168.459719656708
+London and South East,Off Peak,2017,171.575757372805
+London and South East,Off Peak,2018,177.074326967587
+London and South East,Off Peak,2019,181.94683787625
+London and South East,Off Peak,2020,186.530427239579
+London and South East,Off Peak,2021,191.309609118097
+London and South East,Off Peak,2022,198.583304929175
+London and South East,Off Peak,2023,210.30178880472675
+London and South East,Off Peak,2024,220.95896253591724
+London and South East,Off Peak,2025,231.78435500775933
+London and South East,Other,2004,100
+London and South East,Other,2005,100.36708491896
+London and South East,Other,2006,100.75169405536
+London and South East,Other,2007,105.579106199952
+London and South East,Other,2008,110.994891680186
+London and South East,Other,2009,112.685641419886
+London and South East,Other,2010,113.914612153135
+London and South East,Other,2011,119.95043523119
+London and South East,Other,2012,125.832915579071
+London and South East,Other,2013,133.43782341995
+London and South East,Other,2014,133.773374319695
+London and South East,Other,2015,135.205115121952
+London and South East,Other,2016,136.284634088634
+London and South East,Other,2017,136.598016458003
+London and South East,Other,2018,139.412660843966
+London and South East,Other,2019,139.693904772778
+London and South East,Other,2020,152.498622180817
+London and South East,Other,2021,153.365397605551
+London and South East,Other,2022,NA
+London and South East,Other,2023,NA
+London and South East,Other,2024,NA
+London and South East,Other,2025,NA
+London and South East,Season,2004,100
+London and South East,Season,2005,104.702008555942
+London and South East,Season,2006,108.921223047117
+London and South East,Season,2007,114.031449479947
+London and South East,Season,2008,120.53178401512
+London and South East,Season,2009,127.985137993756
+London and South East,Season,2010,128.013623447664
+London and South East,Season,2011,137.359391354873
+London and South East,Season,2012,145.551340651251
+London and South East,Season,2013,151.594949725631
+London and South East,Season,2014,156.24143997044
+London and South East,Season,2015,160.356176351638
+London and South East,Season,2016,161.123107086842
+London and South East,Season,2017,163.490697016601
+London and South East,Season,2018,168.524263699838
+London and South East,Season,2019,173.11992231598
+London and South East,Season,2020,177.963934249535
+London and South East,Season,2021,182.293301696974
+London and South East,Season,2022,188.511347396778
+London and South East,Season,2023,199.34883622047144
+London and South East,Season,2024,209.13192601683184
+London and South East,Season,2025,218.89922577039042
+London and South East,Super Off Peak,2004,100
+London and South East,Super Off Peak,2005,101.304686396527
+London and South East,Super Off Peak,2006,103.136767365411
+London and South East,Super Off Peak,2007,106.414393080757
+London and South East,Super Off Peak,2008,115.808873257064
+London and South East,Super Off Peak,2009,126.18455327632
+London and South East,Super Off Peak,2010,126.678448190382
+London and South East,Super Off Peak,2011,132.950738590348
+London and South East,Super Off Peak,2012,140.743924195261
+London and South East,Super Off Peak,2013,147.273236412468
+London and South East,Super Off Peak,2014,152.384706137824
+London and South East,Super Off Peak,2015,155.155049789469
+London and South East,Super Off Peak,2016,156.280352996145
+London and South East,Super Off Peak,2017,158.966613870352
+London and South East,Super Off Peak,2018,165.755619261788
+London and South East,Super Off Peak,2019,170.717406297863
+London and South East,Super Off Peak,2020,176.620589099811
+London and South East,Super Off Peak,2021,181.448193071114
+London and South East,Super Off Peak,2022,188.278411128664
+London and South East,Super Off Peak,2023,199.50955339368713
+London and South East,Super Off Peak,2024,211.81043758555532
+London and South East,Super Off Peak,2025,226.37556023773143
+Long distance,Advance,2004,100
+Long distance,Advance,2005,104.554811629397
+Long distance,Advance,2006,110.8297584607
+Long distance,Advance,2007,122.576439853642
+Long distance,Advance,2008,131.819327216869
+Long distance,Advance,2009,143.826515398189
+Long distance,Advance,2010,141.495793655895
+Long distance,Advance,2011,147.901480637851
+Long distance,Advance,2012,156.343417268133
+Long distance,Advance,2013,162.978820907952
+Long distance,Advance,2014,166.760429105627
+Long distance,Advance,2015,171.930684749073
+Long distance,Advance,2016,171.731759305451
+Long distance,Advance,2017,165.789048553063
+Long distance,Advance,2018,166.307520012484
+Long distance,Advance,2019,170.951690556319
+Long distance,Advance,2020,173.374519738033
+Long distance,Advance,2021,164.832550255902
+Long distance,Advance,2022,179.521116262522
+Long distance,Advance,2023,190.26008549113826
+Long distance,Advance,2024,196.44375699884503
+Long distance,Advance,2025,207.95322785142375
+Long distance,All tickets,2004,100
+Long distance,All tickets,2005,104.738537127975
+Long distance,All tickets,2006,113.150127712686
+Long distance,All tickets,2007,120.680786503751
+Long distance,All tickets,2008,128.608779470661
+Long distance,All tickets,2009,139.410735694588
+Long distance,All tickets,2010,140.655695019188
+Long distance,All tickets,2011,148.271116472799
+Long distance,All tickets,2012,157.280684034166
+Long distance,All tickets,2013,163.71023935086
+Long distance,All tickets,2014,167.898892671359
+Long distance,All tickets,2015,171.202504508575
+Long distance,All tickets,2016,172.220759600675
+Long distance,All tickets,2017,173.102053653382
+Long distance,All tickets,2018,177.112915826322
+Long distance,All tickets,2019,182.170628683122
+Long distance,All tickets,2020,186.195589087371
+Long distance,All tickets,2021,184.068776044109
+Long distance,All tickets,2022,195.261869143311
+Long distance,All tickets,2023,206.86469954838392
+Long distance,All tickets,2024,215.64862025267473
+Long distance,All tickets,2025,227.24746424740877
+Long distance,Anytime,2004,100
+Long distance,Anytime,2005,105.109370289428
+Long distance,Anytime,2006,115.814964903803
+Long distance,Anytime,2007,125.089644924529
+Long distance,Anytime,2008,135.049228097908
+Long distance,Anytime,2009,148.003213723674
+Long distance,Anytime,2010,152.247950949115
+Long distance,Anytime,2011,160.443122560168
+Long distance,Anytime,2012,170.399322111062
+Long distance,Anytime,2013,176.437282635514
+Long distance,Anytime,2014,181.194702516296
+Long distance,Anytime,2015,183.186202410677
+Long distance,Anytime,2016,184.734252269525
+Long distance,Anytime,2017,190.524849038898
+Long distance,Anytime,2018,196.01861309764
+Long distance,Anytime,2019,201.709076343654
+Long distance,Anytime,2020,207.332369513573
+Long distance,Anytime,2021,212.841099699182
+Long distance,Anytime,2022,219.509723408039
+Long distance,Anytime,2023,230.0474726409571
+Long distance,Anytime,2024,240.04738167056342
+Long distance,Anytime,2025,250.2893367855084
+Long distance,Off Peak,2004,100
+Long distance,Off Peak,2005,104.172553202195
+Long distance,Off Peak,2006,110.921472528378
+Long distance,Off Peak,2007,114.992063738078
+Long distance,Off Peak,2008,120.205174571891
+Long distance,Off Peak,2009,128.598319036676
+Long distance,Off Peak,2010,129.936576470471
+Long distance,Off Peak,2011,137.981591837877
+Long distance,Off Peak,2012,146.816398182215
+Long distance,Off Peak,2013,153.063353556098
+Long distance,Off Peak,2014,157.097177903063
+Long distance,Off Peak,2015,159.219845876587
+Long distance,Off Peak,2016,161.232120317837
+Long distance,Off Peak,2017,165.099167554629
+Long distance,Off Peak,2018,172.036006749351
+Long distance,Off Peak,2019,176.863429309194
+Long distance,Off Peak,2020,181.843778284936
+Long distance,Off Peak,2021,178.788270662911
+Long distance,Off Peak,2022,185.657953053587
+Long distance,Off Peak,2023,197.26514124069294
+Long distance,Off Peak,2024,207.71470661731445
+Long distance,Off Peak,2025,219.04955720679845
+Long distance,Other,2004,100
+Long distance,Other,2005,104.594126287494
+Long distance,Other,2006,113.777741663641
+Long distance,Other,2007,125.788512330069
+Long distance,Other,2008,139.527993984164
+Long distance,Other,2009,137.606420255687
+Long distance,Other,2010,139.329887160527
+Long distance,Other,2011,150.983263226461
+Long distance,Other,2012,161.063616293901
+Long distance,Other,2013,164.135679604442
+Long distance,Other,2014,165.744589858364
+Long distance,Other,2015,168.28296958651
+Long distance,Other,2016,171.226799672418
+Long distance,Other,2017,173.709500242624
+Long distance,Other,2018,179.225259946483
+Long distance,Other,2019,182.715958578539
+Long distance,Other,2020,184.809267787152
+Long distance,Other,2021,186.314978875921
+Long distance,Other,2022,NA
+Long distance,Other,2023,NA
+Long distance,Other,2024,NA
+Long distance,Other,2025,NA
+Long distance,Season,2004,100
+Long distance,Season,2005,104.242916547213
+Long distance,Season,2006,109.007448838751
+Long distance,Season,2007,116.134858520676
+Long distance,Season,2008,123.063065940759
+Long distance,Season,2009,135.236053945044
+Long distance,Season,2010,134.758703567919
+Long distance,Season,2011,142.885579956343
+Long distance,Season,2012,151.371454831215
+Long distance,Season,2013,158.264866099422
+Long distance,Season,2014,163.490339159511
+Long distance,Season,2015,167.723113933483
+Long distance,Season,2016,168.851323806648
+Long distance,Season,2017,172.187920633971
+Long distance,Season,2018,177.821945649555
+Long distance,Season,2019,183.595640460679
+Long distance,Season,2020,188.68015949504
+Long distance,Season,2021,193.181186843793
+Long distance,Season,2022,200.377513632423
+Long distance,Season,2023,211.93704390133271
+Long distance,Season,2024,222.17157273684523
+Long distance,Season,2025,232.0046834087358
+Long distance,Super Off Peak,2004,100
+Long distance,Super Off Peak,2005,105.676071177919
+Long distance,Super Off Peak,2006,110.943730477177
+Long distance,Super Off Peak,2007,115.239327497439
+Long distance,Super Off Peak,2008,124.735668623961
+Long distance,Super Off Peak,2009,132.170557844061
+Long distance,Super Off Peak,2010,133.074482974717
+Long distance,Super Off Peak,2011,139.077261923948
+Long distance,Super Off Peak,2012,147.267165375054
+Long distance,Super Off Peak,2013,153.760489070473
+Long distance,Super Off Peak,2014,157.416197969622
+Long distance,Super Off Peak,2015,159.310485762761
+Long distance,Super Off Peak,2016,160.536406840673
+Long distance,Super Off Peak,2017,163.850367922112
+Long distance,Super Off Peak,2018,169.095993114563
+Long distance,Super Off Peak,2019,173.999074375412
+Long distance,Super Off Peak,2020,177.999592231343
+Long distance,Super Off Peak,2021,180.876032177828
+Long distance,Super Off Peak,2022,187.40109292697
+Long distance,Super Off Peak,2023,198.42904397091596
+Long distance,Super Off Peak,2024,208.27362675907003
+Long distance,Super Off Peak,2025,218.0736446520732
+Regional,Advance,2004,100
+Regional,Advance,2005,103.585125056839
+Regional,Advance,2006,109.413854190401
+Regional,Advance,2007,112.877176184537
+Regional,Advance,2008,125.051038505409
+Regional,Advance,2009,134.805729947727
+Regional,Advance,2010,138.159227795343
+Regional,Advance,2011,144.024101111288
+Regional,Advance,2012,151.946547163436
+Regional,Advance,2013,157.835749095085
+Regional,Advance,2014,158.986941144397
+Regional,Advance,2015,161.19675742316
+Regional,Advance,2016,158.629884368192
+Regional,Advance,2017,169.014238564661
+Regional,Advance,2018,177.187128608383
+Regional,Advance,2019,184.165092661063
+Regional,Advance,2020,184.494302737687
+Regional,Advance,2021,190.418030558015
+Regional,Advance,2022,203.030782658906
+Regional,Advance,2023,210.37745223337265
+Regional,Advance,2024,227.79440187461708
+Regional,Advance,2025,232.8950348902707
+Regional,All tickets,2004,100
+Regional,All tickets,2005,104.226022195801
+Regional,All tickets,2006,109.326798358352
+Regional,All tickets,2007,114.639437504969
+Regional,All tickets,2008,120.946744149605
+Regional,All tickets,2009,129.706787726054
+Regional,All tickets,2010,130.836851143995
+Regional,All tickets,2011,138.54009114085
+Regional,All tickets,2012,147.377858619789
+Regional,All tickets,2013,153.926305113715
+Regional,All tickets,2014,157.513601999094
+Regional,All tickets,2015,161.095823617705
+Regional,All tickets,2016,162.631974241573
+Regional,All tickets,2017,166.054379679763
+Regional,All tickets,2018,172.272285580332
+Regional,All tickets,2019,177.801875081476
+Regional,All tickets,2020,181.467858687577
+Regional,All tickets,2021,185.520963127142
+Regional,All tickets,2022,193.004763209223
+Regional,All tickets,2023,201.3287677423381
+Regional,All tickets,2024,215.0075511415808
+Regional,All tickets,2025,223.60144627232262
+Regional,Anytime,2004,100
+Regional,Anytime,2005,104.473971798905
+Regional,Anytime,2006,110.041794116201
+Regional,Anytime,2007,115.829055027727
+Regional,Anytime,2008,122.832900899391
+Regional,Anytime,2009,132.212550201275
+Regional,Anytime,2010,132.995390894668
+Regional,Anytime,2011,141.099759937024
+Regional,Anytime,2012,150.425222340907
+Regional,Anytime,2013,157.107611810333
+Regional,Anytime,2014,161.072847454359
+Regional,Anytime,2015,164.861286820634
+Regional,Anytime,2016,167.037903728634
+Regional,Anytime,2017,170.269110129508
+Regional,Anytime,2018,176.595373211323
+Regional,Anytime,2019,182.370269801118
+Regional,Anytime,2020,186.958530183054
+Regional,Anytime,2021,191.368665224468
+Regional,Anytime,2022,198.0673330421
+Regional,Anytime,2023,206.69275532343053
+Regional,Anytime,2024,219.99177114035768
+Regional,Anytime,2025,229.8569592360337
+Regional,Off Peak,2004,100
+Regional,Off Peak,2005,104.272770691815
+Regional,Off Peak,2006,109.260173627545
+Regional,Off Peak,2007,114.276117458262
+Regional,Off Peak,2008,120.0745187155
+Regional,Off Peak,2009,128.512013989267
+Regional,Off Peak,2010,130.137399903834
+Regional,Off Peak,2011,137.846164280526
+Regional,Off Peak,2012,146.458627542143
+Regional,Off Peak,2013,152.947932387682
+Regional,Off Peak,2014,156.117491583247
+Regional,Off Peak,2015,159.632173639393
+Regional,Off Peak,2016,161.782689183347
+Regional,Off Peak,2017,163.892989256694
+Regional,Off Peak,2018,169.884510819451
+Regional,Off Peak,2019,175.209365842908
+Regional,Off Peak,2020,179.284683291742
+Regional,Off Peak,2021,182.554353764918
+Regional,Off Peak,2022,188.917603095506
+Regional,Off Peak,2023,197.17165659162737
+Regional,Off Peak,2024,210.23320770146006
+Regional,Off Peak,2025,220.17356774687602
+Regional,Other,2004,100
+Regional,Other,2005,101.925222467355
+Regional,Other,2006,106.077796359985
+Regional,Other,2007,107.225667967794
+Regional,Other,2008,113.277599593734
+Regional,Other,2009,122.69131358864
+Regional,Other,2010,123.007362080742
+Regional,Other,2011,134.317021703025
+Regional,Other,2012,143.49722381834
+Regional,Other,2013,149.389237271824
+Regional,Other,2014,153.796677526852
+Regional,Other,2015,155.424688645555
+Regional,Other,2016,157.089761329557
+Regional,Other,2017,156.43532077536
+Regional,Other,2018,163.462371434734
+Regional,Other,2019,166.738074571856
+Regional,Other,2020,170.241271252691
+Regional,Other,2021,174.143895370294
+Regional,Other,2022,NA
+Regional,Other,2023,NA
+Regional,Other,2024,NA
+Regional,Other,2025,NA
+Regional,Season,2004,100
+Regional,Season,2005,104.105402892083
+Regional,Season,2006,108.379686289685
+Regional,Season,2007,113.057804870733
+Regional,Season,2008,118.440936246397
+Regional,Season,2009,126.28315894782
+Regional,Season,2010,126.184107369586
+Regional,Season,2011,133.524862466509
+Regional,Season,2012,141.856355513288
+Regional,Season,2013,148.180675540274
+Regional,Season,2014,152.43347942668
+Regional,Season,2015,156.354227519813
+Regional,Season,2016,157.786259188941
+Regional,Season,2017,160.197738385277
+Regional,Season,2018,165.304375661165
+Regional,Season,2019,169.848582772236
+Regional,Season,2020,173.606889202225
+Regional,Season,2021,177.481179943274
+Regional,Season,2022,184.755348887233
+Regional,Season,2023,193.21147166992554
+Regional,Season,2024,204.20682264424448
+Regional,Season,2025,207.5988673322128
+Regional,Super Off Peak,2004,100
+Regional,Super Off Peak,2005,99.935956601651
+Regional,Super Off Peak,2006,102.207145789087
+Regional,Super Off Peak,2007,111.706426384404
+Regional,Super Off Peak,2008,111.819253082844
+Regional,Super Off Peak,2009,125.154134990769
+Regional,Super Off Peak,2010,134.454095590321
+Regional,Super Off Peak,2011,140.206653096596
+Regional,Super Off Peak,2012,151.614934822582
+Regional,Super Off Peak,2013,162.458829492444
+Regional,Super Off Peak,2014,171.835679613153
+Regional,Super Off Peak,2015,180.53482818902
+Regional,Super Off Peak,2016,180.957819825264
+Regional,Super Off Peak,2017,183.884670930118
+Regional,Super Off Peak,2018,188.700983946246
+Regional,Super Off Peak,2019,195.822386587808
+Regional,Super Off Peak,2020,200.43390228885
+Regional,Super Off Peak,2021,202.816986200336
+Regional,Super Off Peak,2022,209.332725141815
+Regional,Super Off Peak,2023,221.91755808558605
+Regional,Super Off Peak,2024,236.25544734150552
+Regional,Super Off Peak,2025,253.91501401007338

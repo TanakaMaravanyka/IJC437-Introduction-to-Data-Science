@@ -50,9 +50,6 @@ IJC437-Introduction-to-Data-Science/
 │   ├── 03_timeseries_analysis.R            # Temporal trend analysis
 │   ├── 04_create_visualizations.R          # Chart generation
 │   └── INTRODUCTION TO DATA SCIENCE.R      # Complete analysis (all-in-one)
-├── reports/                                 # Analysis reports
-│   ├── UK_Rail_Fares_Report.md             # Comprehensive findings
-│   └── exploratory_analysis_summary.txt    # EDA summary
 ├── visualizations/                          # Generated charts
 │   ├── 01_overall_trend.png
 │   ├── 02_trends_by_ticket_type.png

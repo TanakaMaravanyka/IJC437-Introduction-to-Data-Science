@@ -2,7 +2,6 @@
 # UK RAIL FARES ANALYSIS - CREATE VISUALIZATIONS
 # ==============================================================================
 # Script 4: Create charts for the report
-# Student: [Your Name]
 # Date: December 2025
 # ==============================================================================
 
@@ -174,3 +173,4 @@ ggsave("visualizations/chart6_cumulative_inflation.png", width = 10, height = 6,
 # ==============================================================================
 # END OF SCRIPT 4
 # ==============================================================================
+

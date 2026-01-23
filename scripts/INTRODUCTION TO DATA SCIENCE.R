@@ -3,7 +3,6 @@
 # UK RAIL FARES ANALYSIS - COMPLETE WORKFLOW
 # ==============================================================================
 # Combined Script: All steps from data conversion to final visualizations
-# Student: [Your Name]
 # Date: December 2025
 # ==============================================================================
 
@@ -704,3 +703,4 @@ ggsave("IJC437-Introduction-to-Data-Science/visualizations/chart6_cumulative_inf
 # ==============================================================================
 # END OF COMBINED SCRIPT - INTRODUCTION TO DATA SCIENCE
 # ==============================================================================
+

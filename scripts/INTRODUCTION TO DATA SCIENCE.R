@@ -209,7 +209,7 @@ ticket_summary <- rail_data %>%
   arrange(desc(Average)) %>%
   # Round for professional presentation
   mutate(across(where(is.numeric), \(x) round(x, 2)))
-
+ticket_summary
 
 
 # ==============================================================================
@@ -710,6 +710,7 @@ ggsave("IJC437-Introduction-to-Data-Science/visualizations/chart6_cumulative_inf
 # ==============================================================================
 # END OF COMBINED SCRIPT - INTRODUCTION TO DATA SCIENCE
 # ==============================================================================
+
 
 
 

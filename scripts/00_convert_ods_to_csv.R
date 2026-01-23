@@ -2,8 +2,7 @@
 # INTRODUCTION TO DATA SCIENCE
 # UK RAIL FARES ANALYSIS - COMPLETE WORKFLOW
 # ==============================================================================
-# Combined Script: All steps from data conversion to final visualizations
-# Student: [Your Name]
+# Combined Script: All steps from data conversion to final visualization
 # Date: December 2025
 # ==============================================================================
 
@@ -49,3 +48,4 @@ write.csv(rail_data, csv_path, row.names = FALSE)
 # ==============================================================================
 # END OF SCRIPT 0
 # ==============================================================================
+

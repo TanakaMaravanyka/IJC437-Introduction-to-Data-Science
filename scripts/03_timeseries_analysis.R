@@ -2,7 +2,6 @@
 # UK RAIL FARES ANALYSIS - TIME-SERIES ANALYSIS
 # ==============================================================================
 # Script 3: Calculate inflation rates and answer research questions
-# Student: [Your Name]
 # Date: December 2025
 # ==============================================================================
 
@@ -165,4 +164,5 @@ comparison_2025$Difference
 
 # ==============================================================================
 # END OF SCRIPT 3
+
 # ============================================

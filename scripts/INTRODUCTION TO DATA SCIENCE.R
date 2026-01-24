@@ -216,7 +216,6 @@ sector_summary <- rail_data %>%
   summarise(
     Count = n(),
     Average = mean(Fare_Index, na.rm = TRUE),
-    Median = median(Fare_Index, na.rm = TRUE),
     Minimum = min(Fare_Index, na.rm = TRUE),
     Maximum = max(Fare_Index, na.rm = TRUE)
   ) %>%
@@ -703,6 +702,7 @@ ggsave("IJC437-Introduction-to-Data-Science/visualizations/chart6_cumulative_inf
 # ==============================================================================
 # END OF COMBINED SCRIPT - INTRODUCTION TO DATA SCIENCE
 # ==============================================================================
+
 
 
 

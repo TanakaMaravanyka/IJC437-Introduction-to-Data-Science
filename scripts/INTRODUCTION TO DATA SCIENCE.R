@@ -199,10 +199,6 @@ ticket_summary <- rail_data %>%
   summarise(
     Count = n(),
     Average = mean(Fare_Index, na.rm = TRUE),
-    Median = median(Fare_Index, na.rm = TRUE),
-    SD = sd(Fare_Index, na.rm = TRUE),
-    Q1 = quantile(Fare_Index, 0.25, na.rm = TRUE),
-    Q3 = quantile(Fare_Index, 0.75, na.rm = TRUE),
     Minimum = min(Fare_Index, na.rm = TRUE),
     Maximum = max(Fare_Index, na.rm = TRUE)
   ) %>%
@@ -221,9 +217,6 @@ sector_summary <- rail_data %>%
     Count = n(),
     Average = mean(Fare_Index, na.rm = TRUE),
     Median = median(Fare_Index, na.rm = TRUE),
-    SD = sd(Fare_Index, na.rm = TRUE),
-    Q1 = quantile(Fare_Index, 0.25, na.rm = TRUE),
-    Q3 = quantile(Fare_Index, 0.75, na.rm = TRUE),
     Minimum = min(Fare_Index, na.rm = TRUE),
     Maximum = max(Fare_Index, na.rm = TRUE)
   ) %>%
@@ -710,6 +703,7 @@ ggsave("IJC437-Introduction-to-Data-Science/visualizations/chart6_cumulative_inf
 # ==============================================================================
 # END OF COMBINED SCRIPT - INTRODUCTION TO DATA SCIENCE
 # ==============================================================================
+
 
 
 
